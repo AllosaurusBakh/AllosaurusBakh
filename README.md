@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif?cid=ecf05e47balii3y935x63sxf4v9pbteosi9p59n9y01ct1fu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="@geniy_sheeesh">
+  <a href="https://web.telegram.org/k/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox">
