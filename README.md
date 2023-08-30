@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif?cid=ecf05e47balii3y935x63sxf4v9pbteosi9p59n9y01ct1fu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="80"/>
+  <img src="https://media2.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif?cid=ecf05e47balii3y935x63sxf4v9pbteosi9p59n9y01ct1fu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="85"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/geniy_sheeesh">
