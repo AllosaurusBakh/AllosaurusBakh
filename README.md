@@ -1,6 +1,17 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/vS8deMiryn69PFGwJQ/giphy.gif?cid=ecf05e47balii3y935x63sxf4v9pbteosi9p59n9y01ct1fu&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
 </div>
+<div id="badges">
+  <a href="geniy_sheeesh">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://vk.com/alkash_bakh">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
 
 <!--
 codewars: [![codewars](https://www.codewars.com/users/AllosaurusBakh/badges/large)](https://www.codewars.com/users/AllosaurusBakh)
