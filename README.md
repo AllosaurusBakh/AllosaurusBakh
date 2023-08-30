@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">via GIPHY</a></p>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxnMW1nd2MxeHA5NmlyZDhseDhtZDk4ZnB0cjBqOHhoZHhyZzVmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="100"/>
 </div>
 [![codewars](https://www.codewars.com/users/AllosaurusBakh/badges/large)](https://www.codewars.com/users/AllosaurusBakh)
 
