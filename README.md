@@ -5,7 +5,7 @@
   <a href="https://t.me/geniy_sheeesh">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="a.d.kulichenko@gmail.com">
+  <a href="mailto:a.d.kulichenko@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://vk.com/alkash_bakh">
