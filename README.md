@@ -17,6 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h2>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,9 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
 </div>
 
+---
 
 ### :fire: My Stats :
 [![codewars](https://www.codewars.com/users/AllosaurusBakh/badges/large)](https://www.codewars.com/users/AllosaurusBakh)
+
+
 <!--
 codewars: [![codewars](https://www.codewars.com/users/AllosaurusBakh/badges/large)](https://www.codewars.com/users/AllosaurusBakh)
 doge: https://media.giphy.com/media/mukzZ4GlySR3y/giphy.gif?cid=ecf05e47q08qt8cppot3wb264msaclczch2ybtqz46itfgwl&ep=v1_stickers_search&rid=giphy.gif&ct=s
