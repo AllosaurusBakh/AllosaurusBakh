@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxnMW1nd2MxeHA5NmlyZDhseDhtZDk4ZnB0cjBqOHhoZHhyZzVmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxnMW1nd2MxeHA5NmlyZDhseDhtZDk4ZnB0cjBqOHhoZHhyZzVmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="150"/>
 </div>
 [![codewars](https://www.codewars.com/users/AllosaurusBakh/badges/large)](https://www.codewars.com/users/AllosaurusBakh)
 
