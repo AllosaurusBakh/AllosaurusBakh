@@ -12,14 +12,12 @@
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
-<h2 align="center">
-  Hello, Samurai
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center">
+  &#128187 Languages and Tools
+</h3>
 <div>
   <p><img src="https://media.giphy.com/media/ek5DHaD97RU0tsVs6f/giphy.gif?cid=ecf05e47wyuw9vat1nosfw1sz130214h3lkxfoy17slc570l&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Front-end :</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" alt="js"/>
@@ -51,7 +49,9 @@
 
 ---
 
-### :fire: My Stats :
+<h3 align="center">
+  &#128293 My Stats
+</h3>
 [![codewars](https://www.codewars.com/users/AllosaurusBakh/badges/large)](https://www.codewars.com/users/AllosaurusBakh)
 
 
