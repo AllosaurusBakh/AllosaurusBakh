@@ -8,7 +8,7 @@
   <a href="mailto:a.d.kulichenko@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://vk.com/alkash_bakh">
+  <a href="https://vk.com/allosaurus_bakh">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
   </a>
 </div>
