@@ -39,7 +39,7 @@
   <a href="https://expressjs.com"><img width="30" height="30" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="express-js"/></a>
 
   <p></p>
-  <p><img src="https://media.giphy.com/media/0CZCBSSU5xCckQ7CwX/giphy.gif?cid=ecf05e47n9ug0kga8gi4cgwdvqzx4t669nivqkxyw3tm91qj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> Other :</p>
+  <p><img src="https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif?cid=ecf05e47zkesfdq825hihv6h3gessj7ihw6kqqomer8r7jyc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25"> Other :</p>
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="30"/></a>
   <a href="https://www.swift.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30"/> </a> 
