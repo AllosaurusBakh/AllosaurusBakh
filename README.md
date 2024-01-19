@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/URNss2tclLkAAAAd/best-flim-ever.gif" width="85"/>
+  <img src="https://media1.tenor.com/m/URNss2tclLkAAAAd/best-flim-ever.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/geniy_sheeesh">
