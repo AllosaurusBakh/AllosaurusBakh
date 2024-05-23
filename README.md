@@ -39,13 +39,14 @@
   <a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30"/></a>
   <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/></a>
   <a href="https://expressjs.com"><img width="30" height="30" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="express-js"/></a>
+  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></a>
+  <a href="https://learn.microsoft.com/ru-ru/sql/sql-server/what-is-sql-server?view=sql-server-ver16"><img width="30" src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="microsoft-sql-server"/></a>
 
   <p></p>
   <p><img src="https://media.giphy.com/media/75ZaxapnyMp2w/giphy.gif?cid=ecf05e47zkesfdq825hihv6h3gessj7ihw6kqqomer8r7jyc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="25"> Other :</p>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="30"/></a>
   <a href="https://www.swift.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="30"/> </a> 
   <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></a>
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></a>
 </div>
 
 ---
