@@ -30,7 +30,7 @@
   <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="30"/></a>
   <a href="https://getbootstrap.com"><img width="30" src="https://img.icons8.com/color/48/000000/bootstrap--v2.png" alt="bootstrap--v2"/></a>
   <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/></a>
-  <a href="https://www.adobe.com/ru/products/photoshop.html"><img src="https://icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" width="40"/></a>
+  <a href="https://www.adobe.com/ru/products/photoshop.html"><img src="https://icon-icons.com/icons2/3070/PNG/512/psd_file_design_graphic_digital_artwork_adobe_photoshop_icon_191032.png" width="30"/></a>
 
   <p></p>
   <p><img src="https://media.giphy.com/media/VW73tscHHsu4w/giphy.gif?cid=ecf05e47pj8ecbp8cgjoocejk5werv8pswf18f07j59dkp9m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Back-end :</p>
