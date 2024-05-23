@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/URNss2tclLkAAAAd/best-flim-ever.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/geniy_sheeesh">
+  <a href="https://t.me/allosaurusss">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:a.d.kulichenko@gmail.com">
