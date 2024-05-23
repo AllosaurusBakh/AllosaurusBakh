@@ -28,7 +28,7 @@
   <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30"/></a>
   <a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30"/></a>
   <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="30"/></a>
-  <a href="https://getbootstrap.com"><img width="30" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/></a>
+  <a href="https://getbootstrap.com"><img width="30" src="https://img.icons8.com/color/48/000000/bootstrap--v2.png" alt="bootstrap--v2"/></a>
   <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/></a>
   <a href="https://www.adobe.com/ru/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30"/></a>
 
