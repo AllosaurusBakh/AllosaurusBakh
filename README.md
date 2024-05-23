@@ -35,6 +35,8 @@
   <p></p>
   <p><img src="https://media.giphy.com/media/VW73tscHHsu4w/giphy.gif?cid=ecf05e47pj8ecbp8cgjoocejk5werv8pswf18f07j59dkp9m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> Back-end :</p>
   <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/fastapi/fastapi-original.svg" width="30"/></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/"><img width="30" src="https://img.icons8.com/ios/50/000000/flask.png" alt="flask"/></a>
   <a href="https://nodejs.org/docs/latest/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30"/></a>
   <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/></a>
   <a href="https://expressjs.com"><img width="30" height="30" src="https://img.icons8.com/fluency/48/000000/express-js.png" alt="express-js"/></a>
